@@ -1,5 +1,5 @@
 # HZThemeManager
-多主题平滑切换的快速集成架构(Theme change)
+多主题平滑切换的快速集成框架(Theme change)
 #### 本项目交流群:32272635
 #### 欢迎有兴趣的有好的想法的同学参与到项目中来，如果有问题请大家加入群中留言或者issue我，或者发邮件给我zuohong_xie@163.com
 
